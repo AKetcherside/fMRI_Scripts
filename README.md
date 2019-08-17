@@ -8,3 +8,5 @@ Functional Neuroimaging Analyses
 
 #They're in order from A-Q, with some miscellaneous scripts prefixed with x-z. 
 
+#File names are anonymized for HIPAA compliance
+
